@@ -1,4 +1,4 @@
-All projects are under FIUS License v-1
+All projects are under FIUS License V1
 
 FIUS License V1
 ----------------------------------------------------------------
