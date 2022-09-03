@@ -1,9 +1,8 @@
 All projects are under FIUS License v-1
 
 FIUS License V1
-................
-1. Definitions
 ----------------
+1. Definitions
 
 1.1. "Contributor"
     means each individual or legal entity that creates, contributes to
@@ -46,9 +45,8 @@ FIUS License V1
 1.7. "The code" / "The Software" / "The project"
     It means the product or creation that this document governs.
 
-.............................................
+--------------------------------
 2. License Grants, Conditions and Limitation
----------------------------------------------
 
 2.1. Each contributor has ownership of what he creates, no exceptions. 
     It may require the removal of what it creates from the project, 
