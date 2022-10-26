@@ -13,7 +13,7 @@ $
 
 All projects are under FIUS License V1
 
-FIUS License V1
+FIUS License V1.1
 ----------------------------------------------------------------
 1. Definitions
 
@@ -55,8 +55,8 @@ FIUS License V1
 1.6. "The owners"
     Who own this project
 
-1.7. "The code" / "The Software" / "The project"
-    It means the product or creation that this document governs.
+1.7. "The code" / "The Software" / "The project" / "The idea"
+    It means the product or creation that this document governs (Including the idea).
 
 ------------------------------------------------
 2. License Grants, Conditions and Limitation
