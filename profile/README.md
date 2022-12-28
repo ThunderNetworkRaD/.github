@@ -13,7 +13,7 @@ $
 
 All projects are under FIUS License V1
 
-FIUS License V1.1
+TN License V1
 ----------------------------------------------------------------
 1. Definitions
 
