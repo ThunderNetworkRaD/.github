@@ -1,4 +1,4 @@
-Caratteri speciali utilizzati
+Special utilized character
 ```
 ()
 ```
