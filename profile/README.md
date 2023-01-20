@@ -1,19 +1,36 @@
 Caratteri speciali utilizzati
 ```
 ()
+```
+```
 []
+```
+```
 {}
+```
+```
 #
+```
+```
 @
+```
+```
 $
+```
+```
 '
+```
+```
 "
+```
+```
 `
 ```
 
-All projects are under FIUS License V1
 
-TN License V1
+All projects are under ThunderNetwork License V1.0
+
+TN License v1.0
 ----------------------------------------------------------------
 1. Definitions
 
