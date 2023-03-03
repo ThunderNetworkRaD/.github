@@ -26,8 +26,8 @@
     // "moduleDetection": "auto",                        /* Control what method is used to detect module-format JS files. */
 
     /* Modules */
-    "module": "CommonJS",                                /* Specify what module code is generated. */
-    "rootDir": "./src/",                                  /* Specify the root folder within your source files. */
+    "module": "ESNext",                                /* Specify what module code is generated. */
+    "rootDir": "",                                  /* Specify the root folder within your source files. */
     "moduleResolution": "node",                       /* Specify how TypeScript looks up a file from a given module specifier. */
     // "baseUrl": "./",                                  /* Specify the base directory to resolve non-relative module names. */
     // "paths": {},                                      /* Specify a set of entries that re-map imports to additional lookup locations. */
@@ -36,7 +36,7 @@
     // "types": [],                                      /* Specify type package names to be included without being referenced in a source file. */
     // "allowUmdGlobalAccess": true,                     /* Allow accessing UMD globals from modules. */
     // "moduleSuffixes": [],                             /* List of file name suffixes to search when resolving a module. */
-    // "resolveJsonModule": true,                        /* Enable importing .json files. */
+    "resolveJsonModule": true,                        /* Enable importing .json files. */
     // "noResolve": true,                                /* Disallow 'import's, 'require's or '<reference>'s from expanding the number of files TypeScript should add to a project. */
 
     /* JavaScript Support */
@@ -45,10 +45,10 @@
     // "maxNodeModuleJsDepth": 1,                        /* Specify the maximum folder depth used for checking JavaScript files from 'node_modules'. Only applicable with 'allowJs'. */
 
     /* Emit */
-    "declaration": true,                              /* Generate .d.ts files from TypeScript and JavaScript files in your project. */
-    "declarationMap": true,                           /* Create sourcemaps for d.ts files. */
+    "declaration": false,                              /* Generate .d.ts files from TypeScript and JavaScript files in your project. */
+    "declarationMap": false,                           /* Create sourcemaps for d.ts files. */
     // "emitDeclarationOnly": true,                      /* Only output d.ts files and not JavaScript files. */
-    "sourceMap": true,                                /* Create source map files for emitted JavaScript files. */
+    "sourceMap": false,                                /* Create source map files for emitted JavaScript files. */
     // "outFile": "./build.js",                                  /* Specify a file that bundles all outputs into one JavaScript file. If 'declaration' is true, also designates a file that bundles all .d.ts output. */
     "outDir": "build",                                   /* Specify an output folder for all emitted files. */
     "removeComments": true,                           /* Disable emitting comments. */
@@ -66,7 +66,7 @@
     // "noEmitHelpers": true,                            /* Disable generating custom helper functions like '__extends' in compiled output. */
     // "noEmitOnError": true,                            /* Disable emitting files if any type checking errors are reported. */
     // "preserveConstEnums": true,                       /* Disable erasing 'const enum' declarations in generated code. */
-    "declarationDir": "build",                           /* Specify the output directory for generated declaration files. */
+    // "declarationDir": "build",                           /* Specify the output directory for generated declaration files. */
     // "preserveValueImports": true,                     /* Preserve unused imported values in the JavaScript output that would otherwise be removed. */
 
     /* Interop Constraints */
@@ -102,6 +102,6 @@
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   },
 //    "include": [],
-  "exclude": ["node_modules", "logs", "build", "d", "test.js"]
+  "exclude": ["node_modules", "logs", "build", "d", "test.js", "old", "tsi-*"]
 }
 ```
